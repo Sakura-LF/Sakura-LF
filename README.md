@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E7%A9%B6%E7%AB%9F%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%91%A2%EF%BC%9F" alt="Typing SVG" /></a>
 
 <a href="https://www.sakurasss.top" target="_blank">
-  <img src="49ba56ae0631c33574ea9b09c7b5dc05c6095cfdb60005556dcc2485c28fd1f0.gif" alt="描述图片的文字">
+  <img src="cat_git.gif" alt="Hello">
 </a>
 
 <!--
