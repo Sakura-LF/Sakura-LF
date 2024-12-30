@@ -3,7 +3,7 @@
 <a href="https://www.sakurasss.top" target="_blank" >
 <img src="cat.webp" alt="Hello" style="width: 43%; height: auto;" >
 </a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-LF&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakura-LF&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <img src="Ardyn.png" alt="FF15-Ardyn">
 
 <!--
