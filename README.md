@@ -8,9 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-LF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakura-LF&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sakura-LF)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sakura-LF/Sakura-LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
