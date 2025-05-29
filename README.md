@@ -5,9 +5,9 @@
       <img src="cat.webp" alt="Hello" style="width: 43%; height: auto;">
     </a>
 
-    <a href="https://wakatime.com/@Sakuras" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=transparent&hide_border=true&layout=compact&langs_count=22" alt="WakaTime Stats" style="width: 43%; height: auto;">
-    </a>
+  <a href="https://wakatime.com/@Sakuras Sakuras (@Sakuras) · WakaTime Sakuras (@Sakuras) · WakaTime " target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=transparent&hide_border=true&layout=compact&langs_count=22  " alt="WakaTime Stats">
+  </a>
   </div>
 
 <img src="Ardyn.png" alt="FF15-Ardyn">
