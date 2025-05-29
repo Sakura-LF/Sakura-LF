@@ -10,7 +10,7 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Sakuras/68aa4806-6dea-456f-9803-8a00da6a1baa.png" /></a>
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=default)
 <!--
 **Sakura-LF/Sakura-LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
