@@ -8,7 +8,7 @@
   
   <!-- 右侧 WakaTime 统计 -->
   <a href="https://wakatime.com/@Sakuras" target="_blank">
-    <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=default](https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=transparent&hide_border=true&layout=compact&langs_count=22)" alt="WakaTime Stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=transparent&hide_border=true&layout=compact&langs_count=22" alt="WakaTime Stats">
   </a>
 </div>
 
