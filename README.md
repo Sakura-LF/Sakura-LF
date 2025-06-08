@@ -5,7 +5,7 @@
        <img src="cat.webp" alt="Hello" style="width: 50%; height: auto;">
   </a>
   <a href="https://wakatime.com/@Sakuras" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=transparent&hide_border=true&langs_count=10" alt="WakaTime Stats" style="max-width: 50%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=transparent&hide_border=true&langs_count=18" alt="WakaTime Stats" style="max-width: 50%; height: auto;">
   </a>
 </div>
 <img src="Ardyn.png" alt="FF15-Ardyn">
