@@ -8,4 +8,3 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakuras&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=12" alt="WakaTime Stats" style="width: 55%; height: auto;">
   </a>
 </div>
-<img src="Ardyn.png" alt="FF15-Ardyn">
